@@ -15,6 +15,6 @@
       puts "Your shoe is as good as new!"
     end
 
-shoe.condtion = "new"
+Shoe.condtion = "new"
 
   end
