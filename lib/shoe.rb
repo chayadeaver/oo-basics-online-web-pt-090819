@@ -16,6 +16,4 @@
       @condition = "new"
     end
 
-@condition = "new"
-
   end
